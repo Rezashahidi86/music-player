@@ -36,6 +36,6 @@ This player lets you play, pause, skip tracks, adjust volume, and visually follo
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the player in action!](https://rezashahidi.github.io/music-player/)
+👉 [Click here to view the player in action!](https://rezashahidi86.github.io/music-player/)
 
 
